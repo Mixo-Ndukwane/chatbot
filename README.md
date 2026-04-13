@@ -24,3 +24,8 @@ Made the console UI more appealing
 5. Added Chatbot Responses
 -Implemented response logic based on user queries
 -Introduced cybersecurity knowledge into the system
+
+6.Improved UI and Validation
+-Enhanced user interface flow
+-Added input validation to prevent errors
+-Improved overall user experience
