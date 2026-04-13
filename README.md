@@ -12,3 +12,7 @@ It interacts with users, provides helpful responses, and promotes awareness of o
 2.Added Voice Greeting
 -Implemented a feature where the chatbot greets the user with audio
 -Improved user engagement and interactivity
+
+3. Added ASCII Art
+Designed a visual text-based interface using ASCII art
+Made the console UI more appealing
