@@ -16,3 +16,11 @@ It interacts with users, provides helpful responses, and promotes awareness of o
 3. Added ASCII Art
 Designed a visual text-based interface using ASCII art
 Made the console UI more appealing
+
+4.Implemented User Input
+-Allowed users to type and send messages
+-Added logic to capture and process input
+
+5. Added Chatbot Responses
+-Implemented response logic based on user queries
+-Introduced cybersecurity knowledge into the system
