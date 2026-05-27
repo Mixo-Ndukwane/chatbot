@@ -33,4 +33,5 @@ Made the console UI more appealing
 1. created a winframe project and added keywordResponders, memeorystore, and sentiment Ditector classes
 2. completed the GUI layout
 3. created a KeywordResponder class and added 10+ keywords
+4. created SentimentDetector and MemoryStore classes
 
