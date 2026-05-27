@@ -29,4 +29,6 @@ Made the console UI more appealing
 -Enhanced user interface flow
 -Added input validation to prevent errors
 -Improved overall user experience
+## chatbot part2
+1. created a winframe project and added keywordResponders, memeorystore, and sentiment Ditector classes
 
