@@ -34,4 +34,5 @@ Made the console UI more appealing
 2. completed the GUI layout
 3. created a KeywordResponder class and added 10+ keywords
 4. created SentimentDetector and MemoryStore classes
+5. connected the mainwindow to the chatbot GUI
 
