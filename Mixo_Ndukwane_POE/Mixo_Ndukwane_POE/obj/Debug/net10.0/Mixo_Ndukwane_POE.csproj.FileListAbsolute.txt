@@ -1,0 +1,13 @@
+C:\Users\ndukw\source\repos\Mixo_Ndukwane_POE\Mixo_Ndukwane_POE\obj\Debug\net10.0\Mixo_Ndukwane_POE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ndukw\source\repos\Mixo_Ndukwane_POE\Mixo_Ndukwane_POE\obj\Debug\net10.0\Mixo_Ndukwane_POE.AssemblyInfoInputs.cache
+C:\Users\ndukw\source\repos\Mixo_Ndukwane_POE\Mixo_Ndukwane_POE\obj\Debug\net10.0\Mixo_Ndukwane_POE.AssemblyInfo.cs
+C:\Users\ndukw\source\repos\Mixo_Ndukwane_POE\Mixo_Ndukwane_POE\obj\Debug\net10.0\Mixo_Ndukwane_POE.csproj.CoreCompileInputs.cache
+C:\Users\ndukw\source\repos\Mixo_Ndukwane_POE\Mixo_Ndukwane_POE\bin\Debug\net10.0\greeting.wav
+C:\Users\ndukw\source\repos\Mixo_Ndukwane_POE\Mixo_Ndukwane_POE\bin\Debug\net10.0\Mixo_Ndukwane_POE.deps.json
+C:\Users\ndukw\source\repos\Mixo_Ndukwane_POE\Mixo_Ndukwane_POE\bin\Debug\net10.0\Mixo_Ndukwane_POE.dll
+C:\Users\ndukw\source\repos\Mixo_Ndukwane_POE\Mixo_Ndukwane_POE\bin\Debug\net10.0\Mixo_Ndukwane_POE.pdb
+C:\Users\ndukw\source\repos\Mixo_Ndukwane_POE\Mixo_Ndukwane_POE\obj\Debug\net10.0\Mixo_Ndukwane_POE.csproj.AssemblyReference.cache
+C:\Users\ndukw\source\repos\Mixo_Ndukwane_POE\Mixo_Ndukwane_POE\obj\Debug\net10.0\Mixo_Ndukwane_POE.dll
+C:\Users\ndukw\source\repos\Mixo_Ndukwane_POE\Mixo_Ndukwane_POE\obj\Debug\net10.0\refint\Mixo_Ndukwane_POE.dll
+C:\Users\ndukw\source\repos\Mixo_Ndukwane_POE\Mixo_Ndukwane_POE\obj\Debug\net10.0\Mixo_Ndukwane_POE.pdb
+C:\Users\ndukw\source\repos\Mixo_Ndukwane_POE\Mixo_Ndukwane_POE\obj\Debug\net10.0\ref\Mixo_Ndukwane_POE.dll

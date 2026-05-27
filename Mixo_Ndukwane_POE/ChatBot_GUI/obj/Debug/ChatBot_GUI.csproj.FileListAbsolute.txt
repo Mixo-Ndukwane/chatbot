@@ -1,0 +1,11 @@
+C:\Users\ndukw\source\repos\Mixo_Ndukwane_POE\ChatBot_GUI\obj\Debug\ChatBot_GUI.csproj.AssemblyReference.cache
+C:\Users\ndukw\source\repos\Mixo_Ndukwane_POE\ChatBot_GUI\obj\Debug\ChatBot_GUI.Properties.Resources.resources
+C:\Users\ndukw\source\repos\Mixo_Ndukwane_POE\ChatBot_GUI\obj\Debug\ChatBot_GUI.csproj.GenerateResource.cache
+C:\Users\ndukw\source\repos\Mixo_Ndukwane_POE\ChatBot_GUI\obj\Debug\ChatBot_GUI.csproj.CoreCompileInputs.cache
+C:\Users\ndukw\source\repos\Mixo_Ndukwane_POE\ChatBot_GUI\bin\Debug\greeting.wav
+C:\Users\ndukw\source\repos\Mixo_Ndukwane_POE\ChatBot_GUI\bin\Debug\ChatBot_GUI.exe.config
+C:\Users\ndukw\source\repos\Mixo_Ndukwane_POE\ChatBot_GUI\bin\Debug\ChatBot_GUI.exe
+C:\Users\ndukw\source\repos\Mixo_Ndukwane_POE\ChatBot_GUI\bin\Debug\ChatBot_GUI.pdb
+C:\Users\ndukw\source\repos\Mixo_Ndukwane_POE\ChatBot_GUI\obj\Debug\ChatBot_GUI.exe
+C:\Users\ndukw\source\repos\Mixo_Ndukwane_POE\ChatBot_GUI\obj\Debug\ChatBot_GUI.pdb
+C:\Users\ndukw\source\repos\Mixo_Ndukwane_POE\ChatBot_GUI\obj\Debug\ChatBot_GUI.Form1.resources
