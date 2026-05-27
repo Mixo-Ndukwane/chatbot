@@ -31,4 +31,5 @@ Made the console UI more appealing
 -Improved overall user experience
 ## chatbot part2
 1. created a winframe project and added keywordResponders, memeorystore, and sentiment Ditector classes
+2. completed the GUI layout
 
