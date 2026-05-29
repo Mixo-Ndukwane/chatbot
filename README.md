@@ -4,7 +4,7 @@
 
 Project Discription
 
-A GUI-based cybersecurity chatbot developed in C# using WPF/WinForms to educate users about online safety through interactive conversations, keyword recognition, sentiment detection, and memory features.
+A GUI-based cybersecurity chatbot developed in C# using WinForms to educate users about online safety through interactive conversations, keyword recognition, sentiment detection, and memory features.
 
 Overview
 
