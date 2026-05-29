@@ -58,7 +58,7 @@ Before running the project, ensure you have the following installed:
 ## Clone and Run the Project
 ### Step 1 - Clone the Repository
 Open a terminal or Git Bash and run:
-git clone https://github.com/Mixo-Ndukwane/your-repository-name.git
+git clone https://github.com/Mixo-Ndukwane/your-chatbot.git
 ### Step 2 - Open the Project
 -Open Visual Studio 2022
 -Click Open a project or solution
