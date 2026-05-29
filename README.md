@@ -35,4 +35,13 @@ Made the console UI more appealing
 3. created a KeywordResponder class and added 10+ keywords
 4. created SentimentDetector and MemoryStore classes
 5. connected the mainwindow to the chatbot GUI
+###Features included:
+- Interactive GUI chatbot interface
+- Cybersecurity keyword recognition
+- Responses for topics such as phishing, malware, passwords, VPNs, encryption, and ransomware
+- Sentiment detection for user interaction
+- Memory storage for personalized conversations
+- WAV greeting sound implementation
+- Event-driven chatbot communication
+- User-friendly design with organized layout
 
