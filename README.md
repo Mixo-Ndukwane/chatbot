@@ -96,6 +96,7 @@ This ensures the WAV file is available when the application runs.
 <img width="1358" height="719" alt="image" src="https://github.com/user-attachments/assets/7f06a39e-7a11-4f39-a95a-1f1fe49f281a" />
 ## youtube link
 https://youtu.be/rsqVcENQ45k?si=4v0CWTsenFyvQZzm
+# chatbot part3
 
 
 
