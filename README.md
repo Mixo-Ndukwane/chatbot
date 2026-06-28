@@ -96,7 +96,223 @@ This ensures the WAV file is available when the application runs.
 <img width="1358" height="719" alt="image" src="https://github.com/user-attachments/assets/7f06a39e-7a11-4f39-a95a-1f1fe49f281a" />
 ## youtube link
 https://youtu.be/rsqVcENQ45k?si=4v0CWTsenFyvQZzm
+
 # chatbot part3
+## Features
+- Task Assistant
+- Task reminders
+- Save tasks automatically
+- Complete tasks
+- Delete tasks
+- Cybersecurity Quiz
+- Multiple-choice questions
+- Quiz scoring
+- Quiz explanations
+- Natural Language Processing (NLP) simulation
+- Activity Log
+- User interaction history
+
+---
+
+## Technologies Used
+
+- C#
+- .NET Framework 4.8
+- Windows Forms
+- Newtonsoft.Json
+- Visual Studio 2022
+
+---
+
+## Prerequisites
+
+Before running the project, install:
+
+- Visual Studio 2022
+- .NET Framework 4.8
+- Newtonsoft.Json NuGet Package
+
+---
+
+## Installing Newtonsoft.Json
+
+1. Open the project in Visual Studio.
+
+2. Click
+
+```
+Tools
+```
+
+↓
+
+```
+NuGet Package Manager
+```
+
+↓
+
+```
+Manage NuGet Packages for Solution
+```
+
+3. Search for
+
+```
+Newtonsoft.Json
+```
+
+4. Install the latest stable version.
+
+---
+
+## Running the Project
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/Mixo-Ndukwane/chatbot.git
+```
+
+2. Open the solution in Visual Studio.
+
+3. Restore NuGet packages if prompted.
+
+4. Press
+
+```
+F5
+```
+
+or
+
+```
+Start
+```
+
+to run the chatbot.
+
+---
+
+## Task Storage
+
+No setup is required.
+
+The chatbot automatically creates
+
+```
+tasks.json
+```
+
+the first time a task is added.
+
+Tasks are automatically loaded each time the application starts.
+
+---
+
+## Project Structure
+
+```
+ChatBot_GUI
+│
+├── Form1.cs
+├── BubblePanel.cs
+├── MemoryStore.cs
+├── KeywordResponder.cs
+├── SentimentDetector.cs
+├── QuizManager.cs
+├── QuizQuestion.cs
+├── TaskManager.cs
+├── CyberTask.cs
+├── TaskStorageHelper.cs
+├── ActivityLogger.cs
+├── NLPProcessor.cs
+├── Intent.cs
+├── SoundPlayerService.cs
+├── greeting.wav
+└── tasks.json (created automatically)
+```
+
+---
+
+# How to Use
+
+### Ask Cybersecurity Questions
+
+Examples:
+
+```
+What is phishing?
+```
+
+```
+Explain malware
+```
+
+```
+Tell me about VPNs
+```
+
+---
+
+### Manage Tasks
+
+Examples:
+
+```
+add task Enable 2FA
+```
+
+```
+show tasks
+```
+
+```
+complete task 1
+```
+
+```
+delete task 1
+```
+
+---
+
+### Quiz
+
+Start the quiz from the GUI.
+
+The quiz includes:
+
+- Multiple choice questions
+- True/False questions
+- Score tracking
+- Feedback after every answer
+
+---
+
+### Activity Log
+
+Commands:
+
+```
+show activity log
+```
+
+```
+show history
+```
+
+```
+show more
+```
+
+---
+
+## Screenshot of Running Application
+<img width="1366" height="717" alt="image" src="https://github.com/user-attachments/assets/ce28a20a-8c48-4f5e-9ecc-63e36836ab5d" />
+##Youtube Video
+
+
 
 
 
