@@ -293,7 +293,7 @@ The quiz includes:
 
 ---
 
-### Activity Log
+### Activity Log.
 
 Commands:
 
